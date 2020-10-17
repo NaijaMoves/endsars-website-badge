@@ -1,16 +1,16 @@
 # #EndSARS Website Badges
 
-Use the #EndSARS badge on your website to show your support and to amplify the work of Nigerian citizens that are fighting against the injustice of SARS through peaceful protests, fundraising, and social media organisation.
+Use the #EndSARS badge on your website to show your support and amplify Nigerian citizens' work fighting against the injustice of SARS through peaceful protests, fundraising, and social media organization.
 
 See badge preview at https://naijahacks.com.
 
 
 ## How to use
-Copy the code and place in the `<body>` of your website and you're good to go!
+Copy the code and place it in the `<body>` of your website, and you're good to go!
 
 ## Website Badges
 
-The badges can be added  to any website. They are styled to appear on the top right corner of the site but this can be customized as required.
+The badges can be added to any website. They are styled to appear on the top right corner of the site, but this can be customized as required.
 
 
 
@@ -186,9 +186,9 @@ The badges can be added  to any website. They are styled to appear on the top ri
 ```
 
 ## Website Badges with Web Monetization donation for #EndSARS enabled
-Web monetization makes it possible website viewers to automatically stream micropayments for the time they spend on your website. The payment goes to a payment pointer added on the website.
+Web monetization makes it possible for website viewers to automatically stream micropayments for the time they spend on your website. The payment goes to a payment pointer added on the website.
 
-If you will like to have those micropayments donated directly to the #EndSARS movement, use one of the banners below. If you already have web monetization enabled, depending on the position of the monetization meta tag on your website, payments might still be streamed to your wallet.
+If you want to have those micropayments donated directly to the #EndSARS movement, use one of the banners below. If you already have web monetization enabled, depending on the monetization meta tag's position on your website, payments might still be streamed to your wallet.
 
 
 <p align="center">
@@ -196,9 +196,9 @@ If you will like to have those micropayments donated directly to the #EndSARS mo
 </p>
 
 
-If you will like to learn more about Web monetization, visit [webmonetization.org](http://webmonetization.org/) or the [Coil developer site](https://developers.coil.com/).
+If you like to learn more about Web monetization, visit [webmonetization.org](http://webmonetization.org/) or the [Coil developer site](https://developers.coil.com/).
 
-__N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledger payment pointer) will go to the [Feminist Coalition](https://feministcoalition2020.com/). We also plaan to reach out to them directly to share their own ILP so that they receive all payments directly.
+__N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledger payment pointer) will go to the [Feminist Coalition](https://feministcoalition2020.com/). We also plan to reach out to them directly to share their own ILP to receive all payments directly.
 
 
 
@@ -389,8 +389,8 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
 
 
 ## Contribute a design
-Anyone can add a new design to bee used by others. Designs added to this page will be considered open source.
+Anyone can add a new design to be used by others. Designs added to this page will be considered open source.
 
-__Submit a design__
+Anyone can __submit a design__: https://forms.gle/f17AHVTTrmPSkidJA
 
 
