@@ -25,6 +25,15 @@ The badges can be added to any website. They are styled to appear on the top rig
   />
 </p>
 
+<p align="center">
+  <img
+      src="https://res.cloudinary.com/africahacks/image/upload/v1602947324/endSars/start.africahacks.com-badge_yhqnu6.png"
+      alt="End Police Brutality in Nigeria"
+      width="100%"
+      id="#endSARS-badge"
+  />
+</p>
+
 ```html
 <a
   style="
@@ -60,6 +69,15 @@ The badges can be added to any website. They are styled to appear on the top rig
 
 </p>
 
+<p align="center">
+  <img
+      src="https://res.cloudinary.com/africahacks/image/upload/v1602947319/endSars/start.africahacks.com-badge-mobile_mt51vb.png"
+      alt="End Police Brutality in Nigeria"
+      height="400px"
+      id="#endSARS-badge"
+  />
+</p>
+
 ```html
 <a
   style="
@@ -93,6 +111,15 @@ The badges can be added to any website. They are styled to appear on the top rig
       id="#endSARS-badge"
   />
 
+</p>
+
+<p align="center">
+  <img
+      src="https://res.cloudinary.com/africahacks/image/upload/v1602947319/endSars/nanuric.com-badge-mobile_idxlca.png"
+      alt="End Police Brutality in Nigeria"
+      height="400px"
+      id="#endSARS-badge"
+  />
 </p>
 
 ```html
@@ -159,6 +186,15 @@ The badges can be added to any website. They are styled to appear on the top rig
       src="https://res.cloudinary.com/africahacks/image/upload/v1602939057/endSars/endSars_feminist_co_ykcrus.png"
       alt="End Police Brutality in Nigeria"
       width="100px"
+      id="#endSARS-badge"
+  />
+</p>
+
+<p align="center">
+  <img
+      src="https://res.cloudinary.com/africahacks/image/upload/v1602947319/endSars/publicmatic.com-badge_u7yaw5.png"
+      alt="End Police Brutality in Nigeria"
+      width="100%"
       id="#endSARS-badge"
   />
 </p>
@@ -249,6 +285,15 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
   />
 </p>
 
+<p align="center">
+  <img
+      src="https://res.cloudinary.com/africahacks/image/upload/v1602947319/endSars/africahacks.com-badge_nelepy.png"
+      alt="End Police Brutality in Nigeria"
+      width="100%"
+      id="#endSARS-badge"
+  />
+</p>
+
 
 ```html
 <a
@@ -283,6 +328,15 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
       src="https://res.cloudinary.com/africahacks/image/upload/v1602939057/endSars/endSars_hand_red_nirufp.png"
       alt="End Police Brutality in Nigeria"
       width="100px"
+      id="#endSARS-badge"
+  />
+</p>
+
+<p align="center">
+  <img
+      src="https://res.cloudinary.com/africahacks/image/upload/v1602947319/endSars/nanuric.com-badge_c7mzd5.png"
+      alt="End Police Brutality in Nigeria"
+      width="100%"
       id="#endSARS-badge"
   />
 </p>
