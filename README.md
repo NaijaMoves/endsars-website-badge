@@ -2,7 +2,7 @@
 
 Use the #EndSARS badge on your website to show your support and amplify Nigerian citizens' work fighting against the injustice of SARS through peaceful protests, fundraising, and social media organization.
 
-See badge preview at https://naijahacks.com.
+See badge preview at [start.africahacks.com](https://start.africahacks.com/) and below.
 
 
 ## How to use
@@ -224,7 +224,7 @@ The badges can be added to any website. They are styled to appear on the top rig
 ## Website Badges with Web Monetization donation for #EndSARS enabled
 Web monetization makes it possible for website viewers to automatically stream micropayments for the time they spend on your website. The payment goes to a payment pointer added on the website.
 
-If you want to have those micropayments donated directly to the #EndSARS movement, use one of the banners below. If you already have web monetization enabled, depending on the monetization meta tag's position on your website, payments might still be streamed to your wallet.
+If you want to have those micropayments donated directly to the #EndSARS movement, use one of the badges below. If you already have web monetization enabled, depending on the monetization meta tag's position on your website, payments might still be streamed to your wallet.
 
 
 <p align="center">
