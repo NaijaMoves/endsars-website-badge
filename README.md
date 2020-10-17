@@ -391,6 +391,6 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
 ## Contribute a design
 Anyone can add a new design to be used by others. Designs added to this page will be considered open source.
 
-__Submit a design__
+Anyone can __submit a design__: https://forms.gle/f17AHVTTrmPSkidJA
 
 
