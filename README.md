@@ -46,7 +46,7 @@ The badges can be added to any website. They are styled to appear on the top rig
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -90,7 +90,7 @@ The badges can be added to any website. They are styled to appear on the top rig
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -134,7 +134,7 @@ The badges can be added to any website. They are styled to appear on the top rig
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -168,7 +168,7 @@ The badges can be added to any website. They are styled to appear on the top rig
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -211,7 +211,7 @@ The badges can be added to any website. They are styled to appear on the top rig
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -234,7 +234,7 @@ If you want to have those micropayments donated directly to the #EndSARS movemen
 
 If you like to learn more about Web monetization, visit [webmonetization.org](http://webmonetization.org/) or the [Coil developer site](https://developers.coil.com/).
 
-__N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledger payment pointer) will go to the [Feminist Coalition](https://feministcoalition2020.com/). We also plan to reach out to them directly to share their own ILP to receive all payments directly.
+__N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledger payment pointer) will bee donated to support the movement. We will share details at a later date.
 
 
 
@@ -261,7 +261,7 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -307,7 +307,7 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -353,7 +353,7 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -390,7 +390,7 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
@@ -427,7 +427,7 @@ __N/B__: Ripple cryptocurrency (XRP) proceeds received from this ILP (Interledge
     width: 10%;
     z-index: 10000;
   "
-  href="https://feministcoalition2020.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
+  href="https://endsars.com/?utm_medium=EndSARS-Badge&utm_source=website-with-EndSARS-Badge"
   target="_blank"
   id="#endSARS-badge"
   ><img
